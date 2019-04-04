@@ -1,2 +1,5 @@
 # fizz-buzz
+
+![build-badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWVhndm5LTzVjTDNiYVNiYWcvUnppWWFXMnRFc2pvNVllVnNaaXVlZkFoSFBFaytlOGpnRmZ2SXF4bHRpK1pKcDdOMkVLZnlWMVpEZGhSb3JDekpCRDdjPSIsIml2UGFyYW1ldGVyU3BlYyI6ImN5MjUxRmFsVVJYazZNcDciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+
 fizz-buzz
