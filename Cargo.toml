@@ -1,0 +1,7 @@
+[package]
+name = "fizz-buzz"
+version = "0.1.0"
+authors = ["yoskeoka <y.okamoto@gemcook.com>"]
+edition = "2018"
+
+[dependencies]
