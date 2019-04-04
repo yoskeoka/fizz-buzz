@@ -1,5 +1,5 @@
 # fizz-buzz
 
-![build-badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiWVhndm5LTzVjTDNiYVNiYWcvUnppWWFXMnRFc2pvNVllVnNaaXVlZkFoSFBFaytlOGpnRmZ2SXF4bHRpK1pKcDdOMkVLZnlWMVpEZGhSb3JDekpCRDdjPSIsIml2UGFyYW1ldGVyU3BlYyI6ImN5MjUxRmFsVVJYazZNcDciLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
+![build-badge](https://codebuild.us-east-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiNDc2QUxmNXR2TXh6Z2pkRm5yZXRmZ242WUVkaWdUdWRxa1l0U1pZdHpMajBVdUprckgwT0hOdmo1VDRxSk9IKzVNZWRKaHVYWFpEYjY3UTNRSmQyR0I0PSIsIml2UGFyYW1ldGVyU3BlYyI6InpFb3EyTno0b3p2QWVVVlgiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master)
 
 fizz-buzz
